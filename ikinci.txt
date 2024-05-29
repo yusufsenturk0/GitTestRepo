@@ -1,1 +1,2 @@
 ikinci txt oluşturuldu feat branch
+son commit
